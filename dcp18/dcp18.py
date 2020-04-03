@@ -16,4 +16,4 @@ def getSubArrays (k, arr):
             subArrayAdd += 1
     return subarrays
 
-print(maxOfSubarrays(4, [2, 3, 5, 6, 8, 10, 12, 13, 14, 15]))
+print(maxOfSubarrays(1, [2, 3, 5, 6, 8, 10, 12, 13, 14, 15]))
